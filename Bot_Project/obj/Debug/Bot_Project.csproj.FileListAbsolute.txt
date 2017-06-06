@@ -1,0 +1,40 @@
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\Bot Application.dll.config
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\Bot Application.dll
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\Bot Application.pdb
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\Autofac.dll
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\Chronic.dll
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\Microsoft.Bot.Builder.Autofac.dll
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\Microsoft.Bot.Builder.dll
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\Microsoft.Bot.Connector.dll
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\Microsoft.Rest.ClientRuntime.dll
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\Newtonsoft.Json.dll
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\System.Net.Http.Formatting.dll
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\System.Web.Http.dll
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\System.Web.Http.WebHost.dll
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\Autofac.xml
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\Microsoft.Bot.Builder.xml
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\Microsoft.Bot.Builder.Autofac.xml
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\Microsoft.Bot.Connector.xml
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\Newtonsoft.Json.xml
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\System.Net.Http.Formatting.xml
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\System.Web.Http.xml
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\System.Web.Http.WebHost.xml
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\ar\Microsoft.Bot.Builder.resources.dll
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\cs\Microsoft.Bot.Builder.resources.dll
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\en\Microsoft.Bot.Builder.resources.dll
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\es\Microsoft.Bot.Builder.resources.dll
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\fa\Microsoft.Bot.Builder.resources.dll
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\fr\Microsoft.Bot.Builder.resources.dll
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\ja\Microsoft.Bot.Builder.resources.dll
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\ru\Microsoft.Bot.Builder.resources.dll
+E:\project\C#_Project\Bot_Project\Bot_Project\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+E:\project\C#_Project\Bot_Project\Bot_Project\obj\Debug\Bot_Project.csprojResolveAssemblyReference.cache
+E:\project\C#_Project\Bot_Project\Bot_Project\obj\Debug\Bot Application.dll
+E:\project\C#_Project\Bot_Project\Bot_Project\obj\Debug\Bot Application.pdb
