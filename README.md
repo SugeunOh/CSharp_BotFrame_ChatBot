@@ -1,4 +1,4 @@
-# BotFramework
+# C#_BotFramework_ChatBot
 
 * 1.Bot Application - 폴더를 C:\Users\first\AppData\Roaming\Microsoft\VisualStudio\14.0\ProjectTemplatesCache\Visual C# 폴더에 넣고 C# 에서 Bot Framework 선택
 
