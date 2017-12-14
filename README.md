@@ -9,3 +9,4 @@
 <hr/>
 
 * Slack, Facebook Messenger 등으로 Azure를 통해서 배포
+* KakaoTalk으로도 ASP.NET 이용해 연동가능
