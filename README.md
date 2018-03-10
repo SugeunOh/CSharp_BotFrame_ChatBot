@@ -4,7 +4,7 @@
 
 * 2.Bot Framework Emulator에 http://localhost:port/api/messages url로 localhost 연결 후 입력된 값으로 반환 값 실험.
 
-* 3.RootDialog.cs로 User와 Bot간 대화 - 코드입력
+* 3.RootDialog.cs로 User와 Bot간 대화
 
 <hr/>
 
