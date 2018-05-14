@@ -83,7 +83,7 @@ namespace Bot_Project.Dialogs
         }
         private async Task MessageReceivedAsync(IDialogContext context, IAwaitable<object> result)
         {
-            ChatBot CB = new ChatBot();
+            ChatBot CB = new ChatBot(); // 
             await CB.Chatbot(context, result); // await 대화 대기 작업
             
             context.Wait(MessageReceivedAsync);
