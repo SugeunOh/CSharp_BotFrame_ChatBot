@@ -4,7 +4,7 @@
 
 * Start VS2015 BotFramework Project
 
-* Bot Framework Emulator -> http://localhost:port/api/messages url(localhost) -> Test
+* [Bot Framework Emulator](https://github.com/Microsoft/BotFramework-Emulator) -> http://localhost:port/api/messages url(localhost) -> Test
 
 * RootDialog.cs -> ChatBot 
 
