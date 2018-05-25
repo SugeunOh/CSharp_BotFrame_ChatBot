@@ -9,7 +9,7 @@
 * RootDialog.cs -> ChatBot 
 
 
-* Slack, Facebook Messenger etc.. Invoke From Azure
+* Slack, Facebook Messenger etc.. Invoke From Azure 
 
 
 ###### Finish Images
